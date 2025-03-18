@@ -43,6 +43,9 @@
     padding: 15px;
     width: 100%;
 }
+.login_button:hover{
+    background-color: #e73b2e;
+}
 .login_button:disabled{ /*para quando o button estiver desabilitado*/
     background-color: #eee;
     color: #aaa;
